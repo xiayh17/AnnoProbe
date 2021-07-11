@@ -15,8 +15,13 @@
 ### 如何下载**AnnoProbe**
 
 ```r
+# 从github下载安装
 library(devtools)
 install_github("jmzeng1314/AnnoProbe")
+
+# 从CRAN下载安装
+install.packages("AnnoProbe")
+
 library(AnnoProbe)
 ```
 
