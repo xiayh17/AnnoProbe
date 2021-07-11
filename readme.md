@@ -1,3 +1,6 @@
+![](https://www.r-pkg.org/badges/version-last-release/AnnoProbe)
+![](http://cranlogs.r-pkg.org/badges/AnnoProbe?color=brightgreen)
+
 ### 表达芯片数据分析伴侣
 
 上周我们发布的**四个R包**基本上能进解决**表达芯片数据挖掘的88%的问题**，如下:
