@@ -1,5 +1,8 @@
 ![](https://www.r-pkg.org/badges/version-last-release/AnnoProbe)
-![](http://cranlogs.r-pkg.org/badges/AnnoProbe?color=brightgreen)
+![](https://cranlogs.r-pkg.org/badges/grand-total/AnnoProbe)
+![](https://cranlogs.r-pkg.org/badges/last-day/AnnoProbe)
+![](https://cranlogs.r-pkg.org/badges/last-week/AnnoProbe)
+![](https://cranlogs.r-pkg.org/badges/AnnoProbe)
 
 ### 表达芯片数据分析伴侣
 
